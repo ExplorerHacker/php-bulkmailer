@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "ultramsg/whatsapp-php-sdk": "^2.0",
+        "longman/telegram-bot": "^0.81.0"
+    }
+}
